@@ -1,0 +1,5 @@
+com\ms\springcloud\service\DeptService.class
+com\ms\springcloud\service\DeptServiceImpl.class
+com\ms\springcloud\controller\DeptController.class
+com\ms\springcloud\dao\DeptDao.class
+com\ms\springcloud\DeptProvider8001_App.class
