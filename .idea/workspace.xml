@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00ca3c76-afd9-4258-bb3c-72a76e849baf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/microservicecloud-consumer-dept-feign/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/microservicecloud-provider-dept-hystrix-8001.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/src/main/java/com/ms/springcloud/DeptProvider8001_Hystrix_App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/src/main/resources/mybatis/mapper/DeptMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/src/main/resources/mybatis/mybatis-config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-api/src/main/java/com/ms/springcloud/entity/Dept.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-api/src/main/java/com/ms/springcloud/entity/Dept.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-api/src/main/java/com/ms/springcloud/service/DeptClientService.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-api/src/main/java/com/ms/springcloud/service/DeptClientService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-api/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-api/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-api/target/microservicecloud.jar" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-api/target/microservicecloud.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -198,7 +185,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583140004687" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583140194746" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -379,7 +366,7 @@
       <workItem from="1583051674394" duration="2913000" />
       <workItem from="1583066758644" duration="157000" />
       <workItem from="1583131093812" duration="2047000" />
-      <workItem from="1583133199510" duration="4612000" />
+      <workItem from="1583133199510" duration="5154000" />
     </task>
     <task id="LOCAL-00001" summary="study of springcloud v-2">
       <created>1582981957767</created>
@@ -409,11 +396,18 @@
       <option name="project" value="LOCAL" />
       <updated>1583054429153</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add hystrix module">
+      <created>1583140035440</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1583140035440</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53027000" />
+    <option name="totallyTimeSpent" value="53569000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -498,7 +492,8 @@
     </ignored-roots>
     <MESSAGE value="study of springcloud v-2" />
     <MESSAGE value="add feign module" />
-    <option name="LAST_COMMIT_MESSAGE" value="add feign module" />
+    <MESSAGE value="add hystrix module" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hystrix module" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/microservicecloud-eureka-7002/src/main/java/com/ms/springcloud/EurekaServer7002_App.java">
